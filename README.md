@@ -1,4 +1,4 @@
-# 📚 读书数字人 (Book Digital Human)
+# 📚 纸上相遇 (Meet Between Pages)
 
 > 一个基于 AI 的沉浸式互动阅读体验平台，让书中的角色“活”过来，与你展开跨越时空的对话与互动。
 
